@@ -1,6 +1,6 @@
 [test.csv](https://github.com/houssem71/Forecasting-next-day-s-returns-in-stock-market-/files/9491955/test.csv)
 [train.csv](https://github.com/houssem71/Forecasting-next-day-s-returns-in-stock-market-/files/9491956/train.csv)
-# Forecasting-next-day-s-returns-in-stock-market-
+# Forecasting next day's returns in stock market
 The aim of this project is to forecast the next day's returns of a tunisian companies using daily stock data from Tunisia Stock Exchange market . 
 At the beginning, we performed ordinary tasks such as data preprocessing and wrangling where we found these three major points: 
 1-We can create two new attributes capable of reducing the dimensionality of market data. 
